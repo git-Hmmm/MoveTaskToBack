@@ -7,3 +7,6 @@ AppInventor Extension that Moves the task to the background.
 **MoveTaskToBack** - Moves the task to the background.
 
 [Download Now](https://github.com/git-Hmmm/MoveTaskToBack/raw/main/com.hmmm.handleback.aix)
+
+## Credits
+Taken reference from https://community.appinventor.mit.edu/t/extension-suggestion-movetasktoback/54532/2. Thanks Gordon_Lu
